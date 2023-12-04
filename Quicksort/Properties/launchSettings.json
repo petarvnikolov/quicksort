@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Quicksort": {
+      "commandName": "Project",
+      "commandLineArgs": "> output.txt",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
